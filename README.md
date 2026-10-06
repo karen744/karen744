@@ -39,13 +39,12 @@
 const karen = {
   rol:        "Ingeniera de Sistemas",
   trabajo:    "Soporte TI @ Comfamiliar",
-  ubicacion:  "Pasto, Nariño 🇨🇴",
+  ubicacion:  "Pasto, Nariño Co",
   backend:    ["Python", "Node.js", "PHP"],
   frontend:   ["React", "HTML", "CSS"],
   bases:      ["PostgreSQL", "MySQL",
                "SQLite"],
-  enfoque:    "Software de gestión",
-  aprendiendo:"Arquitecturas SaaS"
+  enfoque:    "Software de gestión"
 };
 </pre>
     </td>
