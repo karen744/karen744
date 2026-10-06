@@ -5,7 +5,7 @@
 <!-- ===== TEXTO ANIMADO ===== -->
 <p align="center">
   <a href="https://github.com/karen744">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Karen+%F0%9F%91%8B;Desarrollo+software+para+empresas+colombianas;Python+%7C+Node.js+%7C+React+%7C+PHP;Soporte+TI+en+Comfamiliar+de+Nari%C3%B1o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Karen+%F0%9F%91%8B;Desarrollo+software+para+empresas+Colombianas;Python+%7C+Node.js+%7C+React+%7C+PHP;Soporte+TI+en+Comfamiliar+de+Nari%C3%B1o" alt="Typing SVG" />
   </a>
 </p>
 <!-- ===== INSIGNIAS DE CONTACTO ===== -->
@@ -19,9 +19,8 @@
 👩‍💻 Sobre mí
 🎓 Ingeniera de Sistemas — Universidad de Nariño
 🏢 Trabajo en Soporte TI en Comfamiliar de Nariño
-🛠️ Construyo herramientas internas: sistemas POS, gestión de infraestructura TI e inventario biomédico
-🌱 Actualmente aprendiendo: arquitecturas SaaS multi-tenant con Node.js, TypeScript y PostgreSQL
-⚡ Dato curioso: escribe aquí algo tuyo ✨
+🛠️ Construyo herramientas internas: gestión de infraestructura TI e inventario para Empresas
+
 ---
 🚀 Tecnologías
 <p align="center">
