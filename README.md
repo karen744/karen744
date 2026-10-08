@@ -58,8 +58,8 @@ const karen = {
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,php,laravel,kotlin&theme=dark" /><br><br>
-  <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mysql,sqlite&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,kotlin&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,postgres,mysql,sqlite&theme=dark" /><br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&theme=dark" />
   <br><br>
 </div>
